@@ -27,7 +27,3 @@ The project utilizes the Microsoft Research Paraphrase Corpus, which is known fo
 - Model accuracy and loss are plotted to illustrate learning progress.
 - A confusion matrix is generated to visualize the model's performance in classifying paraphrases.
 - ROC curves are plotted to evaluate the effectiveness of the model across different threshold settings.
-
-## Usage
-To run the analysis and view the performance of the paraphrase identification model:
-1. Clone the repository:
